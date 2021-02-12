@@ -1,14 +1,17 @@
 {
   "resources": [
     {"id":{"name":"s4m_ur4i_huge_assetpack_tilemap","path":"sprites/s4m_ur4i_huge_assetpack_tilemap/s4m_ur4i_huge_assetpack_tilemap.yy",},"order":8,},
+    {"id":{"name":"player","path":"objects/player/player.yy",},"order":1,},
     {"id":{"name":"Slime_sheet","path":"sprites/Slime_sheet/Slime_sheet.yy",},"order":4,},
     {"id":{"name":"rat_sheet","path":"sprites/rat_sheet/rat_sheet.yy",},"order":3,},
     {"id":{"name":"s4m_ur4i_huge_assetpack_character_animations","path":"sprites/s4m_ur4i_huge_assetpack_character_animations/s4m_ur4i_huge_assetpack_character_animations.yy",},"order":6,},
     {"id":{"name":"Slug_sheet","path":"sprites/Slug_sheet/Slug_sheet.yy",},"order":5,},
+    {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":0,},
     {"id":{"name":"Tentacle_sheet","path":"sprites/Tentacle_sheet/Tentacle_sheet.yy",},"order":6,},
     {"id":{"name":"s4m_ur4i_huge_assetpack_update_1_2_clouds","path":"sprites/s4m_ur4i_huge_assetpack_update_1_2_clouds/s4m_ur4i_huge_assetpack_update_1_2_clouds.yy",},"order":7,},
     {"id":{"name":"big_ol_spritesheet","path":"sprites/big_ol_spritesheet/big_ol_spritesheet.yy",},"order":0,},
     {"id":{"name":"s4m_ur4i_huge_assetpack_characters","path":"sprites/s4m_ur4i_huge_assetpack_characters/s4m_ur4i_huge_assetpack_characters.yy",},"order":5,},
+    {"id":{"name":"player_spr","path":"sprites/player_spr/player_spr.yy",},"order":1,},
     {"id":{"name":"bat_sheet","path":"sprites/bat_sheet/bat_sheet.yy",},"order":0,},
     {"id":{"name":"Goblin_sheet","path":"sprites/Goblin_sheet/Goblin_sheet.yy",},"order":1,},
     {"id":{"name":"big_sprites_sheet","path":"sprites/big_sprites_sheet/big_sprites_sheet.yy",},"order":2,},
@@ -48,7 +51,7 @@
     {"folderPath":"folders/Objects.yy","order":9,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/spritesheets.yy","order":1,"resourceVersion":"1.0","name":"spritesheets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/spritesheets.yy","order":0,"resourceVersion":"1.0","name":"spritesheets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spritesheets/monsters.yy","order":4,"resourceVersion":"1.0","name":"monsters","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
