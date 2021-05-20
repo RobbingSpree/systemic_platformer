@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "knight",
-    "path": "folders/Sprites/knight.yy",
+    "path": "folders/Sprites/character/knight.yy",
   },
   "resourceVersion": "1.0",
   "name": "noBKG_KnightIdle_strip",

@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "witch",
-    "path": "folders/Sprites/witch.yy",
+    "path": "folders/Sprites/character/witch.yy",
   },
   "resourceVersion": "1.0",
   "name": "B_witch_take_damage",
