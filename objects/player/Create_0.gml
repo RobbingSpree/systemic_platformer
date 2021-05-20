@@ -6,3 +6,4 @@ hspd=0;
 gounded=false;
 
 image_speed=0;
+
